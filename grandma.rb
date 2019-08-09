@@ -1,5 +1,3 @@
-# Write a speak_to_grandma method.
-
 def speak_to_grandma(respond)
   respond = "I LOVE YOU TOO PUMPKIN!"
 end
